@@ -12,7 +12,7 @@
 <br/>
 Hi, I'm Kamalakar🙌, an undergraduate student at NIT Jamshedpur 🚀 from India. I'm passionate in the fields Android and Flutter development. Apart from that I love getting involved in Problem Solving.❤✌
 
-Besides developing stuff, I enjoy listening music 🎧, watching web series 📺, and travelling 🏝️🗻.
+Besides developing stuff, I enjoy playing chess😎, watching movies 📺, and travelling 🏝️🗻.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
