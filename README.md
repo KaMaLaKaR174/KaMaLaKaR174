@@ -1,4 +1,4 @@
-### Hey 👋, I'm Kamalakar!
+### Hey 👋,Kamalakar welcomes you!
 
 <br />
 <a href="https://www.linkedin.com/in/kamalakar-mucharla/" target="blank">
@@ -8,7 +8,8 @@
   <img align="left" alt="Nithin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-
+<br/>
+<br/>
 Hi, I'm Kamalakar🙌, an undergraduate student at NIT Jamshedpur 🚀 from India. I'm passionate in the fields Android and Flutter development. Apart from that I love getting involved in Problem Solving.❤✌
 
 Besides developing stuff, I enjoy listening music 🎧, watching web series 📺, and travelling 🏝️🗻.
