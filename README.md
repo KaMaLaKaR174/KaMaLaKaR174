@@ -7,7 +7,8 @@
 <a href="https://www.instagram.com/kamalakar_mucharla_/" target="blank">
   <img align="left" alt="Nithin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<a href = "#">
+  <img align="left" src="https://komarev.com/ghpvc/?username=nithintata" alt="nithintata" /> </a>
 <br/>
 <br/>
 Hi, I'm Kamalakar🙌, an undergraduate student at NIT Jamshedpur 🚀 from India. I'm passionate in the fields Android and Flutter development. Apart from that I love getting involved in Problem Solving.❤✌
